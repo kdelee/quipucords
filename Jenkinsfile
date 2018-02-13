@@ -15,4 +15,5 @@ node('f25-os') {
 			archive targzfile
 		}
 	}
+	}
 }
